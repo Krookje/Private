@@ -5,8 +5,8 @@ from sys import argv
 from time import time
 
 
-gameRootFolder = "/mnt/mounts/maps/"
-fastdlRootFolder = "/var/www/fastdl/maps"
+gameRootFolder = "/mnt/mounts"
+fastdlRootFolder = "/var/www/fastdl"
 blackListPath = "./fastdl_blacklist.txt"
 
 gameFolders = [
