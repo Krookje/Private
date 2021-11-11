@@ -3,6 +3,11 @@
 
 Simple python script to update and maintain fastdl folder for games such as CS:GO.
 
+Made by:
+https://github.com/Sarrus1
+https://github.com/GAMMACASE/
+
+
   
 
 # What it can do:
